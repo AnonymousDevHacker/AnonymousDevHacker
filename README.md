@@ -7,3 +7,4 @@
 - 💬 Ask me about Anything 
 - 📫 How to reach me: Discord: AnonymousDeveloper#2967
 
+![Anonymous github stats](https://github-readme-stats.vercel.app/api?username=anonymousdevhacker)
